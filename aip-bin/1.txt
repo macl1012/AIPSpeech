@@ -1,0 +1,400 @@
+第1次循环 
+pText = 二十三点六七元 pAudioFile = audio.mp3 pVolume = 15 
+[0] accessToken: 24.9869b61306617dc1188f37ae930a3c27.2592000.1559703318.282335-15997909
+语音合成成功
+第2次循环 
+pText = 二十三点六七元 pAudioFile = audio.mp3 pVolume = 15 
+[0] accessToken: 24.26fa560221699cb1dc51b33246a4bd01.2592000.1559703319.282335-15997909
+语音合成成功
+第3次循环 
+pText = 二十三点六七元 pAudioFile = audio.mp3 pVolume = 15 
+[0] accessToken: 24.66ade4e45cabd0858bd1acd1a307e991.2592000.1559703320.282335-15997909
+语音合成成功
+第4次循环 
+pText = 二十三点六七元 pAudioFile = audio.mp3 pVolume = 15 
+[0] accessToken: 24.4fdbab22c6e997407356d38d992f01dc.2592000.1559703322.282335-15997909
+语音合成成功
+第5次循环 
+pText = 二十三点六七元 pAudioFile = audio.mp3 pVolume = 15 
+[0] accessToken: 24.9a78df5b64d649d90071cc9255e62d1a.2592000.1559703323.282335-15997909
+语音合成成功
+第6次循环 
+pText = 二十三点六七元 pAudioFile = audio.mp3 pVolume = 15 
+[0] accessToken: 24.b84e27c139e20831a9bc4040ff75a6f0.2592000.1559703325.282335-15997909
+语音合成成功
+第7次循环 
+pText = 二十三点六七元 pAudioFile = audio.mp3 pVolume = 15 
+[0] accessToken: 24.e62efabadaf459d4cd4a7c666920d8d0.2592000.1559703326.282335-15997909
+语音合成成功
+第8次循环 
+pText = 二十三点六七元 pAudioFile = audio.mp3 pVolume = 15 
+[0] accessToken: 24.8153182c870e4b4fb3472d431bb186f5.2592000.1559703327.282335-15997909
+语音合成成功
+第9次循环 
+pText = 二十三点六七元 pAudioFile = audio.mp3 pVolume = 15 
+[0] accessToken: 24.c3a56736a212e6f9309edbd3fad7c18c.2592000.1559703329.282335-15997909
+语音合成成功
+第10次循环 
+pText = 二十三点六七元 pAudioFile = audio.mp3 pVolume = 15 
+[0] accessToken: 24.6ac9c43178e6fe2dc215e0bfe2142192.2592000.1559703330.282335-15997909
+语音合成成功
+第11次循环 
+pText = 二十三点六七元 pAudioFile = audio.mp3 pVolume = 15 
+[0] accessToken: 24.cae6cff79404c79d76d6dd45d0719407.2592000.1559703331.282335-15997909
+语音合成成功
+第12次循环 
+pText = 二十三点六七元 pAudioFile = audio.mp3 pVolume = 15 
+[0] accessToken: 24.1fb84dc2785262c6a634ae866e30b87c.2592000.1559703333.282335-15997909
+语音合成成功
+第13次循环 
+pText = 二十三点六七元 pAudioFile = audio.mp3 pVolume = 15 
+[0] accessToken: 24.6f7fcefde3e2c5a1c3babf6c9e5f4e45.2592000.1559703340.282335-15997909
+语音合成成功
+第14次循环 
+pText = 二十三点六七元 pAudioFile = audio.mp3 pVolume = 15 
+[0] accessToken: 24.00ea29c00e33a2a731167814c50689ed.2592000.1559703341.282335-15997909
+语音合成成功
+第15次循环 
+pText = 二十三点六七元 pAudioFile = audio.mp3 pVolume = 15 
+[0] accessToken: 24.8fd51dc9ced85f41ed7bf039f817c8eb.2592000.1559703345.282335-15997909
+语音合成成功
+第16次循环 
+pText = 二十三点六七元 pAudioFile = audio.mp3 pVolume = 15 
+[0] accessToken: 24.493cfc5002ba430d37fb0721d9504a64.2592000.1559703347.282335-15997909
+语音合成成功
+第17次循环 
+pText = 二十三点六七元 pAudioFile = audio.mp3 pVolume = 15 
+[0] accessToken: 24.834670cd70ddcd861a7c5875e5c69037.2592000.1559703350.282335-15997909
+语音合成成功
+第18次循环 
+pText = 二十三点六七元 pAudioFile = audio.mp3 pVolume = 15 
+[0] accessToken: 24.834670cd70ddcd861a7c5875e5c69037.2592000.1559703350.282335-15997909
+语音合成成功
+第19次循环 
+pText = 二十三点六七元 pAudioFile = audio.mp3 pVolume = 15 
+[0] accessToken: 24.6f18c569318b742cb224805c7deeb8fe.2592000.1559703351.282335-15997909
+语音合成成功
+第20次循环 
+pText = 二十三点六七元 pAudioFile = audio.mp3 pVolume = 15 
+[0] accessToken: 24.41471b9ee30b38c6b4a6f8e570fa2115.2592000.1559703352.282335-15997909
+语音合成成功
+第21次循环 
+pText = 二十三点六七元 pAudioFile = audio.mp3 pVolume = 15 
+[1] accessToken: 24.bf55b0997bddb241fd448ed4554175e5.2592000.1559703363.282335-15997909
+语音合成成功
+第22次循环 
+pText = 二十三点六七元 pAudioFile = audio.mp3 pVolume = 15 
+[0] accessToken: 24.c25923bc5b6430a098effdde1908cf4d.2592000.1559703364.282335-15997909
+语音合成成功
+第23次循环 
+pText = 二十三点六七元 pAudioFile = audio.mp3 pVolume = 15 
+[0] accessToken: 24.a3c7c0e0193195dca1032d1e601631dc.2592000.1559703365.282335-15997909
+语音合成成功
+第24次循环 
+pText = 二十三点六七元 pAudioFile = audio.mp3 pVolume = 15 
+[0] accessToken: 24.9e3bcb237313b9ca802d1fc0c1cf9c7e.2592000.1559703366.282335-15997909
+语音合成成功
+第25次循环 
+pText = 二十三点六七元 pAudioFile = audio.mp3 pVolume = 15 
+[0] accessToken: 24.5e6be88231f643d3d24578f13e17624b.2592000.1559703367.282335-15997909
+语音合成成功
+第26次循环 
+pText = 二十三点六七元 pAudioFile = audio.mp3 pVolume = 15 
+[0] accessToken: 24.76de748a838514ca4e106f5bf684a1ff.2592000.1559703368.282335-15997909
+语音合成成功
+第27次循环 
+pText = 二十三点六七元 pAudioFile = audio.mp3 pVolume = 15 
+[0] accessToken: 24.9b231e468d83ab3fcacc433098b75c15.2592000.1559703369.282335-15997909
+语音合成成功
+第28次循环 
+pText = 二十三点六七元 pAudioFile = audio.mp3 pVolume = 15 
+[0] accessToken: 24.765e62e0a938915d037f53eccf0d9119.2592000.1559703370.282335-15997909
+语音合成成功
+第29次循环 
+pText = 二十三点六七元 pAudioFile = audio.mp3 pVolume = 15 
+[0] accessToken: 24.c5daf70971fef807db3f558bc2960a37.2592000.1559703371.282335-15997909
+语音合成成功
+第30次循环 
+pText = 二十三点六七元 pAudioFile = audio.mp3 pVolume = 15 
+[0] accessToken: 24.723195c5456c13668d794315e7893b64.2592000.1559703372.282335-15997909
+语音合成成功
+第31次循环 
+pText = 二十三点六七元 pAudioFile = audio.mp3 pVolume = 15 
+[0] accessToken: 24.2996bc11dab745105bc507e4845db3e9.2592000.1559703374.282335-15997909
+语音合成成功
+第32次循环 
+pText = 二十三点六七元 pAudioFile = audio.mp3 pVolume = 15 
+[0] accessToken: 24.8c8dd515749d3b660a685be0153017b3.2592000.1559703375.282335-15997909
+语音合成成功
+第33次循环 
+pText = 二十三点六七元 pAudioFile = audio.mp3 pVolume = 15 
+[0] accessToken: 24.f0a5d47812bad4819e0c279f2fa6ada5.2592000.1559703376.282335-15997909
+语音合成成功
+第34次循环 
+pText = 二十三点六七元 pAudioFile = audio.mp3 pVolume = 15 
+[0] accessToken: 24.47f1efbc5299dc55a628e930dd4ef6c6.2592000.1559703377.282335-15997909
+语音合成成功
+第35次循环 
+pText = 二十三点六七元 pAudioFile = audio.mp3 pVolume = 15 
+[0] accessToken: 24.7479c2503d8d27d13fcac4e2b927759a.2592000.1559703378.282335-15997909
+语音合成成功
+第36次循环 
+pText = 二十三点六七元 pAudioFile = audio.mp3 pVolume = 15 
+[0] accessToken: 24.ba4ad8d6d954c13371abc3f06d8206db.2592000.1559703379.282335-15997909
+语音合成成功
+第37次循环 
+pText = 二十三点六七元 pAudioFile = audio.mp3 pVolume = 15 
+[0] accessToken: 24.f280adf9801311c6de0b5b5b110c96d9.2592000.1559703381.282335-15997909
+语音合成成功
+第38次循环 
+pText = 二十三点六七元 pAudioFile = audio.mp3 pVolume = 15 
+[0] accessToken: 24.58160f883901444cffc7ce38729e1a81.2592000.1559703382.282335-15997909
+语音合成成功
+第39次循环 
+pText = 二十三点六七元 pAudioFile = audio.mp3 pVolume = 15 
+[0] accessToken: 24.58160f883901444cffc7ce38729e1a81.2592000.1559703382.282335-15997909
+语音合成成功
+第40次循环 
+pText = 二十三点六七元 pAudioFile = audio.mp3 pVolume = 15 
+[0] accessToken: 24.f26043e706efdb469abe5a1f0fb01686.2592000.1559703386.282335-15997909
+语音合成成功
+第41次循环 
+pText = 二十三点六七元 pAudioFile = audio.mp3 pVolume = 15 
+[0] accessToken: 24.0f86585b8483bb5003839ab4eced9e13.2592000.1559703387.282335-15997909
+语音合成成功
+第42次循环 
+pText = 二十三点六七元 pAudioFile = audio.mp3 pVolume = 15 
+[0] accessToken: 24.061e7fba25f1618de5a8fbbc3fd1c46a.2592000.1559703388.282335-15997909
+语音合成成功
+第43次循环 
+pText = 二十三点六七元 pAudioFile = audio.mp3 pVolume = 15 
+[0] accessToken: 24.17a6f45e17a419464a4dd58023263734.2592000.1559703389.282335-15997909
+语音合成成功
+第44次循环 
+pText = 二十三点六七元 pAudioFile = audio.mp3 pVolume = 15 
+[0] accessToken: 24.234850b78176f8b74a60dcbff2ca345a.2592000.1559703390.282335-15997909
+语音合成成功
+第45次循环 
+pText = 二十三点六七元 pAudioFile = audio.mp3 pVolume = 15 
+[0] accessToken: 24.b8625407fa4c4ea391a334b131b00bbb.2592000.1559703391.282335-15997909
+语音合成成功
+第46次循环 
+pText = 二十三点六七元 pAudioFile = audio.mp3 pVolume = 15 
+[0] accessToken: 24.3846d7d63874e0d77399384716ee8e20.2592000.1559703395.282335-15997909
+语音合成成功
+第47次循环 
+pText = 二十三点六七元 pAudioFile = audio.mp3 pVolume = 15 
+[0] accessToken: 24.752564bec3b054521b1c79e6c3b2499f.2592000.1559703397.282335-15997909
+语音合成成功
+第48次循环 
+pText = 二十三点六七元 pAudioFile = audio.mp3 pVolume = 15 
+[0] accessToken: 24.9b1638727256a3aa54df7fb8615f68fb.2592000.1559703398.282335-15997909
+语音合成成功
+第49次循环 
+pText = 二十三点六七元 pAudioFile = audio.mp3 pVolume = 15 
+[0] accessToken: 24.52923f2aa6c04a607461d082b4a16d70.2592000.1559703408.282335-15997909
+语音合成成功
+第50次循环 
+pText = 二十三点六七元 pAudioFile = audio.mp3 pVolume = 15 
+[0] accessToken: 24.05fb1f5b1c4dc5668b286c6bcc63b95e.2592000.1559703409.282335-15997909
+语音合成成功
+第51次循环 
+pText = 二十三点六七元 pAudioFile = audio.mp3 pVolume = 15 
+[0] accessToken: 24.fc21fe39c1a2e42dcfd11a00f6769617.2592000.1559703410.282335-15997909
+语音合成成功
+第52次循环 
+pText = 二十三点六七元 pAudioFile = audio.mp3 pVolume = 15 
+[0] accessToken: 24.375e0b4216251fa351c6fe9be80e1d11.2592000.1559703414.282335-15997909
+语音合成成功
+第53次循环 
+pText = 二十三点六七元 pAudioFile = audio.mp3 pVolume = 15 
+[0] accessToken: 24.5a546ce84a30e2c15d469d3c36e8e4af.2592000.1559703415.282335-15997909
+语音合成成功
+第54次循环 
+pText = 二十三点六七元 pAudioFile = audio.mp3 pVolume = 15 
+[0] accessToken: 24.be7dc07b485ea36c92d1eee9cea8a141.2592000.1559703416.282335-15997909
+语音合成成功
+第55次循环 
+pText = 二十三点六七元 pAudioFile = audio.mp3 pVolume = 15 
+[0] accessToken: 24.e8ae517219f6501d86348401167126c6.2592000.1559703417.282335-15997909
+语音合成成功
+第56次循环 
+pText = 二十三点六七元 pAudioFile = audio.mp3 pVolume = 15 
+[0] accessToken: 24.81b23c74f9c6191d550878d22b194294.2592000.1559703418.282335-15997909
+语音合成成功
+第57次循环 
+pText = 二十三点六七元 pAudioFile = audio.mp3 pVolume = 15 
+[0] accessToken: 24.53855ab7859ae0721502fe02428ee7ce.2592000.1559703419.282335-15997909
+语音合成成功
+第58次循环 
+pText = 二十三点六七元 pAudioFile = audio.mp3 pVolume = 15 
+[0] accessToken: 24.5cd8b9f6a68de501e2b569eb48491d14.2592000.1559703421.282335-15997909
+语音合成成功
+第59次循环 
+pText = 二十三点六七元 pAudioFile = audio.mp3 pVolume = 15 
+[0] accessToken: 24.8113257783eca1e44864da1c50f77467.2592000.1559703422.282335-15997909
+语音合成成功
+第60次循环 
+pText = 二十三点六七元 pAudioFile = audio.mp3 pVolume = 15 
+[0] accessToken: 24.0e0964047393f279772a5c1d493396be.2592000.1559703423.282335-15997909
+语音合成成功
+第61次循环 
+pText = 二十三点六七元 pAudioFile = audio.mp3 pVolume = 15 
+[0] accessToken: 24.af3937baa3540457d27a42fb959cd906.2592000.1559703424.282335-15997909
+语音合成成功
+第62次循环 
+pText = 二十三点六七元 pAudioFile = audio.mp3 pVolume = 15 
+[0] accessToken: 24.91090cbe6fd6c06d285d1dce1dfd6280.2592000.1559703426.282335-15997909
+语音合成成功
+第63次循环 
+pText = 二十三点六七元 pAudioFile = audio.mp3 pVolume = 15 
+[0] accessToken: 24.91090cbe6fd6c06d285d1dce1dfd6280.2592000.1559703426.282335-15997909
+语音合成成功
+第64次循环 
+pText = 二十三点六七元 pAudioFile = audio.mp3 pVolume = 15 
+[0] accessToken: 24.85f0d780029ca75c2216fbd4f0c37c9f.2592000.1559703428.282335-15997909
+语音合成成功
+第65次循环 
+pText = 二十三点六七元 pAudioFile = audio.mp3 pVolume = 15 
+[0] accessToken: 24.6787ac99b1ba401b379526f5517a5505.2592000.1559703429.282335-15997909
+语音合成成功
+第66次循环 
+pText = 二十三点六七元 pAudioFile = audio.mp3 pVolume = 15 
+[0] accessToken: 24.bc557dca52d18099465ba9b7a62e3c3e.2592000.1559703431.282335-15997909
+语音合成成功
+第67次循环 
+pText = 二十三点六七元 pAudioFile = audio.mp3 pVolume = 15 
+[0] accessToken: 24.d5dc9e6f29481ce5c8d3c0619053eb90.2592000.1559703432.282335-15997909
+语音合成成功
+第68次循环 
+pText = 二十三点六七元 pAudioFile = audio.mp3 pVolume = 15 
+[0] accessToken: 24.4c80ab40cda5862c1a566c5eceacd461.2592000.1559703433.282335-15997909
+语音合成成功
+第69次循环 
+pText = 二十三点六七元 pAudioFile = audio.mp3 pVolume = 15 
+[0] accessToken: 24.dd1b6f08495a9b3208505937c86d1760.2592000.1559703434.282335-15997909
+语音合成成功
+第70次循环 
+pText = 二十三点六七元 pAudioFile = audio.mp3 pVolume = 15 
+[0] accessToken: 24.2ecd791c8e4f17be28a4b6640ae95171.2592000.1559703435.282335-15997909
+语音合成成功
+第71次循环 
+pText = 二十三点六七元 pAudioFile = audio.mp3 pVolume = 15 
+[0] accessToken: 24.dd751293becd10a6ee8ab5030b7a3f41.2592000.1559703439.282335-15997909
+语音合成成功
+第72次循环 
+pText = 二十三点六七元 pAudioFile = audio.mp3 pVolume = 15 
+[0] accessToken: 24.97612dd514d6f9703e012d78ffb21c53.2592000.1559703440.282335-15997909
+语音合成成功
+第73次循环 
+pText = 二十三点六七元 pAudioFile = audio.mp3 pVolume = 15 
+[0] accessToken: 24.70834e4ebe57a9d1f699a87d20cfb3e8.2592000.1559703441.282335-15997909
+语音合成成功
+第74次循环 
+pText = 二十三点六七元 pAudioFile = audio.mp3 pVolume = 15 
+[0] accessToken: 24.6afeef38521c0671d830aeb4db3d3d26.2592000.1559703445.282335-15997909
+语音合成成功
+第75次循环 
+pText = 二十三点六七元 pAudioFile = audio.mp3 pVolume = 15 
+[0] accessToken: 24.f8ee5a245ffc92763bee6d5d2161ce43.2592000.1559703446.282335-15997909
+语音合成成功
+第76次循环 
+pText = 二十三点六七元 pAudioFile = audio.mp3 pVolume = 15 
+[0] accessToken: 24.bc01a0d3bb2a73491431752e9a02ab6d.2592000.1559703447.282335-15997909
+语音合成成功
+第77次循环 
+pText = 二十三点六七元 pAudioFile = audio.mp3 pVolume = 15 
+[0] accessToken: 24.6cf622a0ff6e7a3a859e28d42bdaa549.2592000.1559703451.282335-15997909
+语音合成成功
+第78次循环 
+pText = 二十三点六七元 pAudioFile = audio.mp3 pVolume = 15 
+[0] accessToken: 24.525804c1fca2a7447a5244f6bfbcfa2b.2592000.1559703452.282335-15997909
+语音合成成功
+第79次循环 
+pText = 二十三点六七元 pAudioFile = audio.mp3 pVolume = 15 
+[0] accessToken: 24.c6bc19f0deb8b936da59f8b38607d937.2592000.1559703453.282335-15997909
+语音合成成功
+第80次循环 
+pText = 二十三点六七元 pAudioFile = audio.mp3 pVolume = 15 
+[0] accessToken: 24.8037c0f882d719c769cc7939b0cbbba4.2592000.1559703454.282335-15997909
+语音合成成功
+第81次循环 
+pText = 二十三点六七元 pAudioFile = audio.mp3 pVolume = 15 
+[0] accessToken: 24.8037c0f882d719c769cc7939b0cbbba4.2592000.1559703454.282335-15997909
+语音合成成功
+第82次循环 
+pText = 二十三点六七元 pAudioFile = audio.mp3 pVolume = 15 
+[0] accessToken: 24.6ff187183ffa74b6f75c3e210818a6b8.2592000.1559703455.282335-15997909
+语音合成成功
+第83次循环 
+pText = 二十三点六七元 pAudioFile = audio.mp3 pVolume = 15 
+[0] accessToken: 24.5854329edab77bd547ae4cd6ed7ff91f.2592000.1559703460.282335-15997909
+语音合成成功
+第84次循环 
+pText = 二十三点六七元 pAudioFile = audio.mp3 pVolume = 15 
+[0] accessToken: 24.1c94be518c0acfed733e26342bce3d98.2592000.1559703461.282335-15997909
+语音合成成功
+第85次循环 
+pText = 二十三点六七元 pAudioFile = audio.mp3 pVolume = 15 
+[0] accessToken: 24.6129193b01bd77e4a91dff1fdfa3eca5.2592000.1559703462.282335-15997909
+语音合成成功
+第86次循环 
+pText = 二十三点六七元 pAudioFile = audio.mp3 pVolume = 15 
+[0] accessToken: 24.71b8722e3f8d069b93d4cb505d4230d6.2592000.1559703463.282335-15997909
+语音合成成功
+第87次循环 
+pText = 二十三点六七元 pAudioFile = audio.mp3 pVolume = 15 
+[0] accessToken: 24.b4504231075cb1ba19c9ba01f6796ea4.2592000.1559703464.282335-15997909
+语音合成成功
+第88次循环 
+pText = 二十三点六七元 pAudioFile = audio.mp3 pVolume = 15 
+[0] accessToken: 24.1384ddd2c5025121776bcfce983de60f.2592000.1559703465.282335-15997909
+语音合成成功
+第89次循环 
+pText = 二十三点六七元 pAudioFile = audio.mp3 pVolume = 15 
+[0] accessToken: 24.7edddf5d23e61aea282b97684aa03b37.2592000.1559703467.282335-15997909
+语音合成成功
+第90次循环 
+pText = 二十三点六七元 pAudioFile = audio.mp3 pVolume = 15 
+[0] accessToken: 24.3d7c7be122f781ae4beae5addb87707b.2592000.1559703468.282335-15997909
+语音合成成功
+第91次循环 
+pText = 二十三点六七元 pAudioFile = audio.mp3 pVolume = 15 
+[0] accessToken: 24.6be3359afbfde30cfca81385d090ded3.2592000.1559703469.282335-15997909
+语音合成成功
+第92次循环 
+pText = 二十三点六七元 pAudioFile = audio.mp3 pVolume = 15 
+[0] accessToken: 24.f4b30713cb46480a3247504afbf8636d.2592000.1559703471.282335-15997909
+语音合成成功
+第93次循环 
+pText = 二十三点六七元 pAudioFile = audio.mp3 pVolume = 15 
+[0] accessToken: 24.c87a0d7176d8dc6af2de31392d24f65e.2592000.1559703472.282335-15997909
+语音合成成功
+第94次循环 
+pText = 二十三点六七元 pAudioFile = audio.mp3 pVolume = 15 
+[0] accessToken: 24.f14ec8cd69f3e68390e694741d2b5989.2592000.1559703474.282335-15997909
+语音合成成功
+第95次循环 
+pText = 二十三点六七元 pAudioFile = audio.mp3 pVolume = 15 
+[1] accessToken: 24.d469e62c466c1184b189f4e4fe52d935.2592000.1559703484.282335-15997909
+语音合成成功
+第96次循环 
+pText = 二十三点六七元 pAudioFile = audio.mp3 pVolume = 15 
+[0] accessToken: 24.cd6341c3e84dbe8155dd81cdd3d14413.2592000.1559703485.282335-15997909
+语音合成成功
+第97次循环 
+pText = 二十三点六七元 pAudioFile = audio.mp3 pVolume = 15 
+[0] accessToken: 24.1315026634bad434f7ee9b6b87c498e3.2592000.1559703492.282335-15997909
+语音合成成功
+第98次循环 
+pText = 二十三点六七元 pAudioFile = audio.mp3 pVolume = 15 
+[0] accessToken: 24.d035cb60fc75c5324dfbe0bbcbee842c.2592000.1559703493.282335-15997909
+语音合成成功
+第99次循环 
+pText = 二十三点六七元 pAudioFile = audio.mp3 pVolume = 15 
+[0] accessToken: 24.7fa3ceb636494a8905e4113f3deb09b2.2592000.1559703495.282335-15997909
+语音合成成功
+第100次循环 
+pText = 二十三点六七元 pAudioFile = audio.mp3 pVolume = 15 
+[0] accessToken: 24.625541abd2b08e7a69f233dde64f4fcd.2592000.1559703497.282335-15997909
+语音合成成功
